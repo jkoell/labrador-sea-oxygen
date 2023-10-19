@@ -6,7 +6,7 @@ The notebooks included in the repository show examples of the calculation of a "
 * [cmip6_score_local](./cmip6_score.ipynb), which includes data for more models \(three as of Apr 17, 2023\), but requires the CMIP6 data to be downloaded separately to run the notebook
 
 #### October 18, 2023
-Updated score calculation in both notebooks, and added link to publication 
+Updated score calculation in both notebooks to reflect changes made during paper revisions. Added link to publication in readme and notebooks 
 
 #### April 17, 2023
 Added second notebook for calculation of scores accessing CMIP6 files directly from the respective servers without downloading

@@ -6,6 +6,9 @@ The notebooks included in the repository show examples of the calculation of a "
 * [cmip6_score](./cmip6_score.ipynb), which uses OpenDAP URLs to directly access files from the server for the **MIROC E2SL** and **NOAA GFDL CM4** models
 * [cmip6_score_local](./cmip6_score.ipynb), which includes data for more models \(three as of Apr 17, 2023\), but requires the CMIP6 data to be downloaded separately to run the notebook
 
+#### October 25, 2023
+Optimized code to run faster, and fixed some small errors
+
 #### October 19, 2023
 Uploaded new CSV files of Labrador Sea oxygen content and updated score calculation in both notebooks to reflect changes made during paper revisions. Added link to publication in readme and notebooks 
 

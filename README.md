@@ -10,6 +10,9 @@ The notebooks included in the repository show examples of the calculation of a "
 * Added new notebook for the score calculation with local files structure, [cmip6_score_local_all](./cmip6_score_local_all.ipynb); this notebook calculates the score for eight of the nine models used in the paper.
 * Updated other notebooks to optimize code
 
+#### October 25, 2023
+Optimized code to run faster, and fixed some small errors
+
 #### October 19, 2023
 Uploaded new CSV files of Labrador Sea oxygen content and updated score calculation in both notebooks to reflect changes made during paper revisions. Added link to publication in readme and notebooks 
 
